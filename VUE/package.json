@@ -1,0 +1,47 @@
+{
+  "name": "ginessentail-vue",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "bootstrap": "^4.4.1",
+    "bootstrap-vue": "^2.6.0",
+    "core-js": "^3.6.4",
+    "dg-table": "^2.1.1",
+    "echarts": "^4.9.0",
+    "echarts-stat": "^1.2.0",
+    "element-china-area-data": "^5.0.2",
+    "element-ui": "^2.15.2",
+    "jquery": "^3.6.0",
+    "qs": "^6.10.1",
+    "v-charts": "^1.19.0",
+    "v-distpicker": "^1.2.12",
+    "vue": "^2.6.11",
+    "vue-axios": "^2.1.5",
+    "vue-echarts": "^6.0.0-rc.5",
+    "vue-json-excel": "^0.3.0",
+    "vue-router": "^3.1.5",
+    "vuelidate": "^0.7.5",
+    "vuex": "^3.1.2"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^4.2.0",
+    "@vue/cli-plugin-eslint": "^4.2.0",
+    "@vue/cli-plugin-router": "^4.2.0",
+    "@vue/cli-plugin-vuex": "^4.2.0",
+    "@vue/cli-service": "^4.2.0",
+    "@vue/eslint-config-airbnb": "^5.0.2",
+    "babel-eslint": "^10.0.3",
+    "eslint": "^6.7.2",
+    "eslint-plugin-import": "^2.20.1",
+    "eslint-plugin-vue": "^6.1.2",
+    "node-sass": "^4.12.0",
+    "sass-loader": "^8.0.2",
+    "vue-template-compiler": "^2.6.11"
+  }
+}

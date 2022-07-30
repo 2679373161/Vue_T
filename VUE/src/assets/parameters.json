@@ -1,0 +1,24 @@
+{
+    "data":[
+        {
+            "id":"viewcolor",
+            "value":""
+        },
+        {
+            "id":"menucolor",
+            "value":""
+        },
+        {
+            "id":"bgcolor",
+            "value":""
+        },
+        {
+            "id":"txcolor",
+            "value":""
+        },
+        {
+            "id":"acttxcolor",
+            "value":""
+        }
+    ]
+}
